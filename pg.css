@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&family=New+Amsterdam&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&family=Grey+Qo&family=New+Amsterdam&display=swap');
+
+body{
+    margin: 0px 0px;
+}
+.cont{
+    width: 90%;
+    padding: 0%;
+}
+
+.titulo{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-family: "Bungee Tint", sans-serif;
+    font-size: 30px;
+    text-shadow: 7px 4px 13px #CE5937;
+}       
+.conteudo{
+    width: 90%;
+    display: flex;
+    padding: 20pox
+    ;
+
+}
+.conteudo img{
+    width: 300px;
+    border-radius: 200px;
+}
+
+.lesquerdo{
+    text-align: center;
+}
+
+.ldireito{
+    font-size: 50px;
+    font-family: "Grey Qo", cursive;
+    margin-left: 10px;
+}
